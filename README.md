@@ -31,7 +31,7 @@ Sign up today and become a member of our [forum](https://forum.plentymarkets.com
 
 Visit our forum and find the latest news and updates in our [Changelog](https://forum.plentymarkets.com/c/changelog?order=created).
 
-## License
+## Licensesdfgsdfgsdfgg
 
 This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE - see the [LICENSE](/LICENSE) file for details.
 
